@@ -12,7 +12,6 @@ These GPTs were built in an exploratory fashion, following some tutorials and cu
 - Basic GPT which responds to queries in an overly canadian and poetic way, generating an image based on the response at the end.
 - This GPT focused on adding additional and more complex instructions
 
-  **Updated Moon Landing**:https://chatgpt.com/g/g-7pocAWuhj-moon-landing-gpt
-  - This simple GPT focused on the ability to update the GPTs knowledge. Interestingly but not surprisngly, after uploading the PDF, the GPTs responses were more accurate.
- 
-  - 
+**Updated Moon Landing**:https://chatgpt.com/g/g-7pocAWuhj-moon-landing-gpt
+ - This simple GPT focused on the ability to update the GPTs knowledge. Interestingly but not surprisngly, after uploading the PDF, the GPTs responses were more accurate.
+  
