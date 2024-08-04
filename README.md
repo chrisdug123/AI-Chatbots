@@ -15,3 +15,6 @@ These GPTs were built in an exploratory fashion, following some tutorials and cu
 **Updated Moon Landing**:https://chatgpt.com/g/g-7pocAWuhj-moon-landing-gpt
  - This simple GPT focused on the ability to update the GPTs knowledge. Interestingly but not surprisngly, after uploading the PDF, the GPTs responses were more accurate.
   
+**SunsetSunrise GPT**: https://chatgpt.com/g/g-0O57Iuq9W-sunrise-sunset-bot
+- This GPT uses a public api and provides the users with information from this api
+
